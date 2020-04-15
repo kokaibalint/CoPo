@@ -1,0 +1,13 @@
+C:\Users\Balint\source\repos\Service\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Balint\source\repos\Service\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Balint\source\repos\Service\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Balint\source\repos\Service\WindowsService1\bin\Debug\WCFLib2.dll
+C:\Users\Balint\source\repos\Service\WindowsService1\bin\Debug\WCFLib2.pdb
+C:\Users\Balint\source\repos\Service\WindowsService1\bin\Debug\WCFLib2.dll.config
+C:\Users\Balint\source\repos\Service\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\Balint\source\repos\Service\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Balint\source\repos\Service\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Users\Balint\source\repos\Service\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\Balint\source\repos\Service\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
+C:\Users\Balint\source\repos\Service\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Balint\source\repos\Service\WindowsService1\obj\Debug\WindowsService1.pdb

@@ -1,0 +1,30 @@
+﻿@using CoPo.Models 
+
+@{
+    ViewData["Title"] = "Computers";
+}
+
+<h1>Computers</h1>
+
+<table class="table" method="get"> 
+    <thead>
+        <tr>
+            <th>
+                PC Name:
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @{ 
+                var data = ViewBag.Message;
+            }
+            <td>@data</td>
+            <td>
+                @Html.ActionLink("Details", "Computer", new { id = data }) |
+                @Html.ActionLink("Shut Down", "TurnOff", new { data })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

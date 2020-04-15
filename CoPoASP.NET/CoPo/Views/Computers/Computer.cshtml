@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewData["Title"] = "Computer";
+}
+
+<h1>Computer</h1>
+
+<table class="table" method="get">
+    <thead>
+        <tr>
+            <th>
+                PC Name:
+            </th>
+            <th>
+                OS Name:
+            </th>
+            <th>
+                OS Version:
+
+            </th>
+            <th>
+                Input Language:
+
+            </th>
+            <th>
+                Input Language:
+
+            </th>
+            <th>
+                CPU:
+
+            </th>
+            <th>
+                Disk Capacity:
+
+            </th>
+            <th>
+                Total Physical Memory:
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @{
+                var setup = ViewBag.Computer;
+            }
+            <td>@setup.PCName</td>
+            <td>@setup.OSName</td>
+            <td>@setup.OSVersion</td>
+            <td>@setup.InputLocale</td>
+            <td>@setup.SystemLocale</td>
+            <td>@setup.CPUInfo</td>
+            <td>@setup.DiskCapacity</td>
+            <td>@setup.TotalPhysicalMemory</td>
+        </tr>
+    </tbody>
+</table>
+
